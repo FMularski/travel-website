@@ -109,7 +109,7 @@ nav ul {
 }
 
 /* Locations section */
-.locations {
+#locations {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
     url("/img/new-york-page.png");
@@ -279,6 +279,8 @@ footer {
 
 footer h5 {
   flex: 1 1 40rem;
+  font-family: "Pattaya", sans-serif;
+  font-weight: 400;
 }
 
 footer ul {
